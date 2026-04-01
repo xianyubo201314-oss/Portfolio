@@ -1,0 +1,10 @@
+node_modules/
+dist_clean/
+dist_full/
+dist_perfect/
+scrape.js
+scrape_clean.js
+scrape_full.js
+puppeteer-clone.js
+package.json
+package-lock.json
